@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Et3SnF.github.io
+title: Et3SnF
+tagline: A site where I talk about my programming work and life
+description: A site where I talk about my programming work and life
+paginate: 5
